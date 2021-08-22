@@ -148,6 +148,8 @@ Para fazer o merge entre branches. Esse comando deverá ser executado na branch 
 
 ```sh
 git merge nome-da-branch-que-quero-puxar-para-fazer-merge-com-atual
+
+git push origin main
 ```
 </br>
 Para remover uma branch do repo remoto:
@@ -331,6 +333,8 @@ To merge between branches. This command should be run on the branch you want to 
 
 ```sh
 git merge branch-name-pull-to-merge-with-current
+
+git push origin main
 ```
 </br>
 To remove a remote repo branch:
